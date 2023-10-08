@@ -54,7 +54,7 @@
     "ngx-matomo-v9": "^0.6.0",
     "ngx-spinner": "^13.1.1",
     "ngx-toastr": "^14.2.2",
-    "postcss": "^8.4.8",
+    "postcss": "^8.4.31",
     "postcss-flexbugs-fixes": "^5.0.2",
     "postcss-preset-env": "^7.4.2",
     "rxjs": "^7.5.5",
